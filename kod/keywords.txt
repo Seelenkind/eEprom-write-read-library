@@ -1,0 +1,28 @@
+#######################################
+# Syntax eEprom
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+eEprom	KEYWORD1	eEprom
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+byteWrite	KEYWORD2
+byteRead        KEYWORD2
+intWrite	KEYWORD2
+intRead        KEYWORD2
+longWrite	KEYWORD2
+longRead        KEYWORD2
+floatWrite	KEYWORD2
+foloatRead        KEYWORD2
+stringWrite	KEYWORD2
+stringRead        KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
