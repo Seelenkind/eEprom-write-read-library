@@ -15,8 +15,8 @@ byteWrite	KEYWORD2
 byteRead        KEYWORD2
 intWrite	KEYWORD2
 intRead        KEYWORD2
-longWrite	KEYWORD2
-longRead        KEYWORD2
+longintWrite	KEYWORD2
+longintRead        KEYWORD2
 floatWrite	KEYWORD2
 foloatRead        KEYWORD2
 stringWrite	KEYWORD2
